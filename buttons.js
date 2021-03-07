@@ -1,4 +1,4 @@
-const { ipcRender } = require("electron");
+const { ipcRenderer } = require("electron");
 
 const zoekBtn = document.getElementById('zoeken-btn');
 
